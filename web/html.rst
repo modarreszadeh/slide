@@ -370,7 +370,7 @@ Direction (dir : rtl , ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/css/css210.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/css/css210.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -420,7 +420,7 @@ Direction (dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html180_rtl.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html180_rtl.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -476,7 +476,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html220_h1.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html220_h1.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -489,7 +489,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html240_p.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html240_p.html" title="description" class="output-of-html">
    </iframe>
 
 
@@ -503,7 +503,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html260_p_div.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html260_p_div.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -516,7 +516,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html280_br.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html280_br.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -529,7 +529,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html300_a.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html300_a.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -542,7 +542,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html320_ul.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html320_ul.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -555,7 +555,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html330_ol.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html330_ol.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -568,7 +568,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html330_ol.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html330_ol.html" title="description" class="output-of-html">
    </iframe>
 
 
@@ -582,7 +582,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html330_ol_ol.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html330_ol_ol.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -595,7 +595,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html340_img.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html340_img.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -608,7 +608,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html350_img_width_height.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html350_img_width_height.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -621,7 +621,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html360_img_alt.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html360_img_alt.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -634,7 +634,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html370_pre.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html370_pre.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -647,7 +647,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html375_b_strong_i.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html375_b_strong_i.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -660,7 +660,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html375_em_small_del.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html375_em_small_del.html" title="description" class="output-of-html">
    </iframe>
 
 
@@ -674,7 +674,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html375_ins_sub_sup.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html375_ins_sub_sup.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -687,7 +687,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html380_hr_sub_sup.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html380_hr_sub_sup.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -700,7 +700,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html385_table_tr_td.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html385_table_tr_td.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -713,7 +713,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html390_table_border.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html390_table_border.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -726,7 +726,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html395_table_different_td.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html395_table_different_td.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -739,7 +739,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html400_table_different_td_colspan.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html400_table_different_td_colspan.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -752,7 +752,7 @@ Direction (in tags dir : ltr)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html405_table_different_td_rowpan.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html405_table_different_td_rowpan.html" title="description" class="output-of-html">
    </iframe>
 
 .. :
@@ -773,7 +773,7 @@ Center Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html410_table_center.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html410_table_center.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -790,7 +790,7 @@ Remove Center Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html412_remove_table_center.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html412_remove_table_center.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -803,7 +803,7 @@ Remove Center Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html415_table_thead.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html415_table_thead.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -816,7 +816,7 @@ Remove Center Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html420_table_tfoot.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html420_table_tfoot.html" title="description" class="output-of-html">
    </iframe>
 
 .. :
@@ -834,7 +834,7 @@ Remove Center Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html420_table_caption.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html420_table_caption.html" title="description" class="output-of-html">
    </iframe>
 
 .. :
@@ -863,7 +863,7 @@ Comments & Named Characters
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html422_entries_quote.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html422_entries_quote.html" title="description" class="output-of-html">
    </iframe>
 
 ----
@@ -881,7 +881,7 @@ Absolute URLs vs. Relative URLs
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html424_absolute_url_vs_relative_urls.html" title="description" class="output-of-html">
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html424_absolute_url_vs_relative_urls.html" title="description" class="output-of-html">
   </iframe>
 
 ----
@@ -899,7 +899,7 @@ HTML Links - Use an Image as a Link
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html426_use_an_image_as_a_link.html" title="description" class="output-of-html">
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html426_use_an_image_as_a_link.html" title="description" class="output-of-html">
   </iframe>
 
 ----
@@ -926,7 +926,7 @@ Link Target
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html428_link_target.html" title="description" class="output-of-html">
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html428_link_target.html" title="description" class="output-of-html">
   </iframe>
 
 * _blank
@@ -946,7 +946,7 @@ Title Attribute
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html550_title.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html550_title.html" title="description" class="output-of-html">
    </iframe>
 
 
@@ -962,7 +962,7 @@ Abbr Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html555_abbr.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html555_abbr.html" title="description" class="output-of-html">
    </iframe>
 
 
@@ -978,7 +978,7 @@ rtl Attribute
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html505_div.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html505_div.html" title="description" class="output-of-html">
    </iframe>
 
 
@@ -995,7 +995,7 @@ Span Tag
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html505_span_div.html" title="description" class="output-of-html">
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html505_span_div.html" title="description" class="output-of-html">
    </iframe>
 
 .. :
@@ -1018,7 +1018,7 @@ Image is nonblock
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html506_use_an_image_as_a_link_nonblock.html" title="description" class="output-of-html">
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html506_use_an_image_as_a_link_nonblock.html" title="description" class="output-of-html">
   </iframe>
 
 ----
@@ -1117,7 +1117,7 @@ Blockquote
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html507.blockquote.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html507.blockquote.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1134,7 +1134,7 @@ Short quotations
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html507.quotations.html" title="description" class="output-of-html">
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html507.quotations.html" title="description" class="output-of-html">
   </iframe>
 
 ----
@@ -1153,7 +1153,7 @@ HTML <bdo> for Bi-Directional Override
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html510_dl_dt_dd.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html510_dl_dt_dd.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl
@@ -1174,7 +1174,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html615_class.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html615_class.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1189,7 +1189,7 @@ Tab
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html620_tabindex.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html620_tabindex.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1204,7 +1204,7 @@ Access Key
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html645_acceskey.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html645_acceskey.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey
@@ -1236,7 +1236,7 @@ Lang Attribute
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html630_lang.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html630_lang.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1252,7 +1252,7 @@ Content Editable Attribute
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html635_contenteditable.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html635_contenteditable.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 .. :
@@ -1277,7 +1277,7 @@ Hidden Attribute
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html640_hidden.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html640_hidden.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1312,7 +1312,7 @@ List(I)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html660_ol_start.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html660_ol_start.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1327,7 +1327,7 @@ List(II)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html662_ol_type.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html662_ol_type.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 https://www.w3docs.com/learn-html/html-lists.html
@@ -1344,7 +1344,7 @@ List(III)
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html665_ul_type.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html665_ul_type.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 https://www.w3docs.com/learn-html/html-lists.html
@@ -1361,7 +1361,7 @@ Disabled
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html680_bottom.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html680_bottom.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 .. :
@@ -1380,7 +1380,7 @@ Select / option
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html685_select.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html685_select.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 .. :
@@ -1399,7 +1399,7 @@ Input
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html690_input.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html690_input.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 .. :
@@ -1418,7 +1418,7 @@ Fieldset
 
 .. raw:: html
 
-   <iframe src="http://127.0.0.1:8002/src/html/html695_fieldset.html" title="description" class="output-of-html" allowfullscreen >
+   <iframe src="http://web-slide.exverso.io:8080/src/html/html695_fieldset.html" title="description" class="output-of-html" allowfullscreen >
    </iframe>
 
 ----
@@ -1441,7 +1441,7 @@ Area(I)
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html730_area.html" title="description" class="output-of-html" allowfullscreen >
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html730_area.html" title="description" class="output-of-html" allowfullscreen >
   </iframe>
 
 ----
@@ -1456,7 +1456,7 @@ Area(II)
 
 .. raw:: html
 
-  <iframe src="http://127.0.0.1:8002/src/html/html735_area.html" title="description" class="output-of-html" allowfullscreen >
+  <iframe src="http://web-slide.exverso.io:8080/src/html/html735_area.html" title="description" class="output-of-html" allowfullscreen >
   </iframe>
 
 
